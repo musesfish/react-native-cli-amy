@@ -1,0 +1,4 @@
+#Sat Sep 28 15:30:19 CST 2019
+base.0=/Users/jinbuhuan/Desktop/git/jbh_hdz_client_app_v2/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

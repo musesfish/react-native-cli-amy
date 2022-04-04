@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>13B22A83-D454-42C6-8569-F2D8AD51BB10</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>13B22A83-D454-42C6-8569-F2D8AD51BB10.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>react-native-cli-amy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>react-native-cli-amy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace react-native-cli-amy with scheme react-native-cli-amy and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>592465416.18908203</real>
+			<key>timeStoppedRecording</key>
+			<real>592465417.42271304</real>
+			<key>title</key>
+			<string>Building workspace react-native-cli-amy with scheme react-native-cli-amy and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>13B22A83-D454-42C6-8569-F2D8AD51BB10</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

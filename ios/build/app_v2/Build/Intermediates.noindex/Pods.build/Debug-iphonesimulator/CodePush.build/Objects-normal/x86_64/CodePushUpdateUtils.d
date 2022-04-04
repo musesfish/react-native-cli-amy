@@ -1,0 +1,46 @@
+dependencies: \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/node_modules/react-native-code-push/ios/CodePush/CodePushUpdateUtils.m \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Target\ Support\ Files/CodePush/CodePush-prefix.pch \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Public/SSZipArchive/SSZipArchive.modulemap \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/node_modules/react-native-code-push/ios/CodePush/CodePush.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/FrameworkSupplement/JWT.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTCoding.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTCoding+ResultTypes.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTDeprecations.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTCoding+VersionOne.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTCoding+VersionTwo.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTCoding+VersionThree.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTAlgorithm.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTRSAlgorithm.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTAlgorithmFactory.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTAlgorithmNone.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTAlgorithmHSBase.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTAlgorithmRSBase.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTAlgorithmErrorDescription.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTAlgorithmESBase.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTAlgorithmAsymmetricBase.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTAlgorithmDataHolder.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTBase64Coder.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTAlgorithmDataHolderChain.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTClaimsSet.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTClaim.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTClaimsSetSerializer.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTClaimsSetVerifier.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTErrorDescription.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTCryptoKey.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTCryptoKeyExtractor.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTCryptoSecurity.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTCryptoSecurity+ErrorHandling.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWT.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTCryptoSecurity+ExternalRepresentation.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Headers/Private/JWT/JWTCryptoSecurity+Extraction.h

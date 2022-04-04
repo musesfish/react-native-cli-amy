@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoSecurity.m \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/Target\ Support\ Files/JWT/JWT-prefix.pch \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoSecurity.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Supplement/JWTDeprecations.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoSecurity+ErrorHandling.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/FrameworkSupplement/JWT.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Coding/JWTCoding.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Coding/JWTCoding+ResultTypes.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Coding/JWTCoding+VersionOne.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Coding/JWTCoding+VersionTwo.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Coding/JWTCoding+VersionThree.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Algorithms/Base/JWTAlgorithm.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Algorithms/RSFamily/JWTRSAlgorithm.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Algorithms/Base/JWTAlgorithmFactory.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Algorithms/Base/JWTAlgorithmNone.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Algorithms/HSFamily/JWTAlgorithmHSBase.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Algorithms/RSFamily/JWTAlgorithmRSBase.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Algorithms/Base/JWTAlgorithmErrorDescription.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Algorithms/ESFamily/JWTAlgorithmESBase.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Algorithms/ESFamily/JWTAlgorithmAsymmetricBase.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Algorithms/Holders/JWTAlgorithmDataHolder.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Supplement/JWTBase64Coder.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Algorithms/Holders/JWTAlgorithmDataHolderChain.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/ClaimSet/JWTClaimsSet.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/ClaimSet/JWTClaim.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/ClaimSet/JWTClaimsSetSerializer.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/ClaimSet/JWTClaimsSetVerifier.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Supplement/JWTErrorDescription.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoKey.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoKeyExtractor.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoSecurity+ExternalRepresentation.h \
+  /Users/jinbuhuan/Desktop/git/jbh_hdz_client_react-native-cli-amy/ios/Pods/JWT/Core/Algorithms/RSFamily/RSKeys/JWTCryptoSecurity+Extraction.h
